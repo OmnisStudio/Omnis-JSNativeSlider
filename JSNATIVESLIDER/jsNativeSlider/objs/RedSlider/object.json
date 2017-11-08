@@ -1,0 +1,59 @@
+{
+	"ident": 1007,
+	"order": 5,
+	"objtype": "kComponent",
+	"componentlib": "jsNativeSlider",
+	"componentctrl": "Native Slider Control",
+	"properties": {
+		"::max": 255,
+		"::min": 0,
+		"::vertical": false,
+		"alpha": 255,
+		"bordercolor": "kColorDefault",
+		"contextmenu": "",
+		"cssclassname": "",
+		"desgroup": 0,
+		"designactive": true,
+		"deslock": false,
+		"disabledefaultcontextmenu": false,
+		"disablesystemfocus": true,
+		"dropmode": "kAcceptNone",
+		"effect": "kJSborderNone",
+		"enabled": true,
+		"events": "evEndSlider",
+		"fieldstyle": "",
+		"horzmargin": 10,
+		"linestyle": 1,
+		"objlink": 65539,
+		"preventlayoutanimation": false,
+		"step": 1,
+		"tooltip": "",
+		"userinfo": "",
+		"usesteps": false,
+		"val": 255,
+		"vertmargin": 10,
+		"visible": true
+	},
+	"layout": {
+		"310": {
+			"left": 10,
+			"top": 55,
+			"width": 260,
+			"height": 40,
+			"dragborder": false,
+			"edgefloat": "kEFright",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		},
+		"600": {
+			"left": 10,
+			"top": 55,
+			"width": 540,
+			"height": 40,
+			"dragborder": false,
+			"edgefloat": "kEFright",
+			"errortextpos": "kJSErrorTextPosUnder",
+			"visible": true
+		}
+	}
+}

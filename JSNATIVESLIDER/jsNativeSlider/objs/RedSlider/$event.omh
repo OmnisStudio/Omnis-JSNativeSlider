@@ -1,0 +1,3 @@
+On evEndSlider
+	Calculate iRed as pSliderValue
+	Do method setColor

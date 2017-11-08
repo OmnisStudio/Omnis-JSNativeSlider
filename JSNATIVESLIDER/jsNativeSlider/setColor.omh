@@ -1,0 +1,5 @@
+Calculate iRedLabel as con('Red ',iRed)
+Calculate iGreenLabel as con('Green ',iGreen)
+Calculate iBlueLabel as con('Blue ',iBlue)
+
+Do $cinst.$objs.Pane.$backcolor.$assign(rgb(iRed,iGreen,iBlue))

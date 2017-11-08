@@ -1,0 +1,4 @@
+On evEndSlider
+	Calculate iGreen as pSliderValue
+	
+	Do method setColor
